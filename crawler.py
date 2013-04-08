@@ -1,0 +1,1 @@
+# This script will start to crawl & index Turkish news sites one day
