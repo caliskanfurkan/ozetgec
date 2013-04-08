@@ -1,1 +1,1 @@
-An mobile app for Turkish news summaries.
+A mobile app for Turkish news summaries.
